@@ -4,6 +4,8 @@ SUBLEVEL = 177
 EXTRAVERSION =
 NAME = Blurry Fish Butt
 
+export KBUILD_BUILD_USER=Gabriel
+export KBUILD_BUILD_HOST=Ubuntu
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
 # More info can be located in ./README
